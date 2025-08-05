@@ -36,7 +36,7 @@ Crop_Project/
 │   ├── sugarcane/
 │   ├── urad/
 │   └── wheat/
-├── README.md              # This file
+
 ```
 ## Installation Steps
 - Run the Streamlit App : python -m streamlit run app2.py
