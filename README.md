@@ -1,4 +1,4 @@
-# 🌾 Multi-Crop Yield Prediction using Machine Learning
+# 🌾 Crop Yield Prediction App
 <img width="1893" height="920" alt="image" src="https://github.com/user-attachments/assets/cbd36df9-39b0-404b-bb92-b820ec008138" />
 
 
